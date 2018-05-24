@@ -201,7 +201,7 @@
 
 </script>
 
-<style>
+<style scoped>
     .range_inputs {
         margin-bottom: 10px;
     }
